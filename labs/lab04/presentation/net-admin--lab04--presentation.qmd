@@ -10,26 +10,116 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: презентация №
-subtitle: change
+title: презентация №4
+subtitle: Первоначальное конфигурирование сети
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
-# Информация
+# создание топологии
 
-## change
+## расположение коммутаторов
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
-
-  * 
-
-:::
 ::: {.column width="70%"}
+![](./image/fig00001.png)
+:::
+::::::::::::::
 
-![](./image/fig0000.png)
 
+## соединение коммутаторов
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00002.png)
+:::
+::::::::::::::
+
+## расположение компьютеров и серверов
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00003.png)
+:::
+::::::::::::::
+
+## соединение компьютеров и серверов
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00004.png)
+:::
+::::::::::::::
+
+# настройка коммутаторов
+
+## настройка VLAN2, virtual teletype и паролей (msk-donskaya-qscalizaya-sw-1)
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00005.png)
+:::
+::::::::::::::
+
+
+## настройка пользователя и протокол SSH(msk-donskaya-qscalizaya-sw-1)
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00006.png)
+:::
+::::::::::::::
+
+## настройка коммутатора msk-donskaya-qscalizaya-sw-2
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00007.png)
+:::
+::::::::::::::
+
+## настройка коммутатора msk-donskaya-qscalizaya-sw-3
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00008.png)
+:::
+::::::::::::::
+
+## настройка коммутатора msk-donskaya-qscalizaya-sw-4
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00009.png)
+:::
+::::::::::::::
+
+
+## настройка коммутатора msk-pavlovskaya-sw-1
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00010.png)
+:::
+::::::::::::::
+
+
+# проверка сети
+
+## проверка с пакетами
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00011.png)
+:::
+::::::::::::::
+
+
+## проверка с пакетами
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+![](./image/fig00012.png)
 :::
 ::::::::::::::
