@@ -10,26 +10,188 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: презентация №
-subtitle: change
+title: презентация №6
+subtitle: Статическая маршрутизация VLAN
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
-# Информация
 
-## change
+# начальная настройка маршрутизатора
+
+## соединение маршрутизатора 2811
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
 
-  * 
+::: {.column width="100%"}
+
+![](./image/fig00002.png)
 
 :::
-::: {.column width="70%"}
+::::::::::::::
 
-![](./image/fig0000.png)
+## команды для настройки маршрутиз0атора
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00003.png)
+
+:::
+::::::::::::::
+
+
+# настройка VLAN-интерфейсов
+
+## включение интерфейса f0/0
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00004.png)
+
+:::
+::::::::::::::
+
+
+
+
+## настройка VLAN-интерфейса 2
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00005.png)
+
+:::
+::::::::::::::
+
+## настройка VLAN-интерфейса 3
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00006.png)
+
+:::
+::::::::::::::
+
+## настройка VLAN-интерфейса 101
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00007.png)
+
+:::
+::::::::::::::
+
+## настройка VLAN-интерфейса 102
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00009.png)
+
+:::
+::::::::::::::
+
+
+## настройка VLAN-интерфейса 103
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00008.png)
+
+:::
+::::::::::::::
+
+
+## настройка VLAN-интерфейса 104
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00010.png)
+
+:::
+::::::::::::::
+
+
+# проверка работы сети
+
+## проверка с командой ping (д)
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00012.png)
+
+:::
+::::::::::::::
+
+## проверка с командой ping  (дк)
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00013.png)
+
+:::
+::::::::::::::
+
+## проверка с пакетами
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00014.png)
+
+:::
+::::::::::::::
+
+## проверка с пакетами
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00015.png)
+
+:::
+::::::::::::::
+
+## проверка с пакетами
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00016.png)
+
+:::
+::::::::::::::
+
+## проверка с пакетами
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00017.png)
 
 :::
 ::::::::::::::
