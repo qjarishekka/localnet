@@ -10,26 +10,229 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: презентация №
-subtitle: change
+title: презентация №7
+subtitle: Учёт физических параметров сети
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
-# Информация
+# фисический область
 
-## change
+
+## файл lab06.pkt
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
 
-  * 
-
-:::
 ::: {.column width="70%"}
 
-![](./image/fig0000.png)
+![](./image/fig00001.png)
 
 :::
 ::::::::::::::
+
+## переименование страны
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00002.png)
+
+:::
+::::::::::::::
+
+## переименование города
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00003.png)
+
+:::
+::::::::::::::
+
+
+## переименование здания
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00004.png)
+
+:::
+::::::::::::::
+
+## перемещание коммутатора msk-pavlovskaya-sw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00005.png)
+
+:::
+::::::::::::::
+
+
+## перемещание кончевых устроиств
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00006.png)
+
+:::
+::::::::::::::
+
+## проверка соединения
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00008.png)
+
+:::
+::::::::::::::
+
+## включение эффектов расстояния каблей
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00009.png)
+
+:::
+::::::::::::::
+
+## убеличение расстояния между зданиями
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00010.png)
+
+:::
+::::::::::::::
+
+## проблема с соеднением
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00011.png)
+
+:::
+::::::::::::::
+
+## проверка с помощью команды ping
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00012.png)
+
+:::
+::::::::::::::
+
+
+## повторители
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00013.png)
+
+:::
+::::::::::::::
+
+
+## переименование повторителей
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00014.png)
+
+:::
+::::::::::::::
+
+
+## конфигурация моделей повторителя
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00016.png)
+
+:::
+::::::::::::::
+
+## конфигурация моделей повторителя
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00017.png)
+
+:::
+::::::::::::::
+
+## перемещение повторителя на здание pavlovskaya
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00018.png)
+
+:::
+::::::::::::::
+
+
+## соедиение повторителей и коммутаторов
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00019.png)
+
+:::
+::::::::::::::
+
+## соедиение повторителей и коммутаторов
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00020.png)
+
+:::
+::::::::::::::
+
+## проверка соединения
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="70%"}
+
+![](./image/fig00021.png)
+
+:::
+::::::::::::::
+
+
