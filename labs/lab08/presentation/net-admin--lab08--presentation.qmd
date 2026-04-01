@@ -10,26 +10,131 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: презентация №
-subtitle: change
+title: презентация №8
+subtitle: Настройка сетевых сервисов. DHCP
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
-# Информация
+# расположение сервера
 
-## change
+## сервер PT 
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
 
-  * 
+::: {.column width="100%"}
+
+![](./image/fig00001.png)
 
 :::
-::: {.column width="70%"}
+::::::::::::::
 
-![](./image/fig0000.png)
+## порт
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00002.png)
+
+:::
+::::::::::::::
+
+## включение порта
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00003.png)
+
+:::
+::::::::::::::
+
+
+# настройка DNS-сервера 
+
+## выключение сервиса DNS
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00004.png)
+
+:::
+::::::::::::::
+
+## добавить новый url
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00005.png)
+
+:::
+::::::::::::::
+
+## все домайны
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00008.png)
+
+:::
+::::::::::::::
+
+
+# настройка маршрутизатора
+
+## команды для конфигурации
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00009.png)
+
+:::
+::::::::::::::
+
+## смотреть настройку
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00011.png)
+
+:::
+::::::::::::::
+
+
+
+
+# проверка работы сети
+
+## проверка с командой ping
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00014.png)
+
+:::
+::::::::::::::
+
+## проверка с пакетами
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00015.png)
 
 :::
 ::::::::::::::
