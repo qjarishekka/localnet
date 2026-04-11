@@ -10,26 +10,329 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: презентация №
-subtitle: change
+title: презентация №9
+subtitle: Использование протокола STP. Агрегирование каналов
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
-# Информация
+# изменение топологии
 
-## change
+## sw-1 и sw-2
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
 
-  * 
+::: {.column width="90%"}
 
-:::
-::: {.column width="70%"}
-
-![](./image/fig0000.png)
+![](./image/fig00002.png)
 
 :::
 ::::::::::::::
+
+## sw-1 и sw-3
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00003.png)
+
+:::
+::::::::::::::
+
+## настройка интерфейсов sw-3
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00004.png)
+
+:::
+::::::::::::::
+
+## настройка интерфейсов sw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00005.png)
+
+:::
+::::::::::::::
+
+
+## настройка интерфейсов sw-4
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00006.png)
+
+:::
+::::::::::::::
+
+## проверка сети
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00007.png)
+
+:::
+::::::::::::::
+
+# протокол STP
+
+## spanning tree
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00008.png)
+
+:::
+::::::::::::::
+
+## настройка spanning tree
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00009.png)
+
+:::
+::::::::::::::
+
+## проверка протокола STP
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00010.png)
+
+:::
+::::::::::::::
+
+## проверка протокола STP
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00011.png)
+
+:::
+::::::::::::::
+
+## проверка протокола STP
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00012.png)
+
+:::
+::::::::::::::
+
+## проверка протокола STP
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00013.png)
+
+:::
+::::::::::::::
+
+# настройка протокола STP в режиме PortFast
+
+## настройка в коммутаторе sw2
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00014.png)
+
+:::
+::::::::::::::
+
+## настройка в коммутаторе sw3
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00015.png)
+
+:::
+::::::::::::::
+
+## проверка работы протокола STP в режимe portfast
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00016.png)
+
+:::
+::::::::::::::
+
+## проверка работы протокола STP в режимe portfast
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00017.png)
+
+:::
+::::::::::::::
+
+## проверка работы протокола STP в режимe portfast
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00018.png)
+
+:::
+::::::::::::::
+
+# настройка протокола STP в режиме Rapid PVST+
+
+## настройка в коммутаторе sw-1
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00019.png)
+
+:::
+::::::::::::::
+
+## настройка в коммутаторе sw-2
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00020.png)
+
+:::
+::::::::::::::
+
+
+## настройка в коммутаторе sw-4
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00021.png)
+
+:::
+::::::::::::::
+
+## настройка в коммутаторе sw-3
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00022.png)
+
+:::
+::::::::::::::
+
+## настройка в коммутаторе sw-1 pavlovlskaya
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00023.png)
+
+:::
+::::::::::::::
+
+
+## проверка работы протокола STP в режиме Rapid PVST+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00024.png)
+
+:::
+::::::::::::::
+
+
+## проверка работы протокола STP в режиме Rapid PVST+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00025.png)
+
+:::
+::::::::::::::
+
+## проверка работы протокола STP в режиме Rapid PVST+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00026.png)
+
+:::
+::::::::::::::
+
+
+# агрегирование каналов (режим EtherChannel)
+
+## добавление кабелей
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00027.png)
+
+:::
+::::::::::::::
+
+## настройка интерфейсов sw-1
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00028.png)
+
+:::
+::::::::::::::
+
+## настройка интерфейсов sw-1
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00029.png)
+
+:::
+::::::::::::::
+
+## настройка интерфейсов sw-4
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00030.png)
+
+:::
+::::::::::::::
+
+
+# Спасибо за внимание
