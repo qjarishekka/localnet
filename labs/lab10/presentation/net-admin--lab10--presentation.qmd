@@ -10,26 +10,380 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: презентация №
-subtitle: change
+title: презентация №10
+subtitle: Настройка списков управления доступом (ACL)
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
-# Информация
+# установка ноутбука Admin
 
-## change
+## ноутбук Admin
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
 
-  * 
+::: {.column width="90%"}
+
+![](./image/fig00001.png)
 
 :::
-::: {.column width="70%"}
+::::::::::::::
 
-![](./image/fig0000.png)
+## настройка ноутбука Admin
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00002.png)
+
+:::
+::::::::::::::
+
+## настройка ноутбука Admin
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00003.png)
+
+:::
+::::::::::::::
+
+
+# настройка маршрутизатора gw-1
+
+## Настройка доступа к web-серверу по порту tcp 80:
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00004.png)
+
+:::
+::::::::::::::
+
+## Добавление списка управления доступом к интерфейсу:
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00005.png)
+
+:::
+::::::::::::::
+
+## Дополнительный доступ для администратора по протоколам Telnet и FTP:
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00006.png)
+
+:::
+::::::::::::::
+
+## проверка работы протокола FTP с ноутбука
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00007.png)
+
+:::
+::::::::::::::
+
+## проверка работы протокола FTP с компьютера ДК
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00008.png)
+
+:::
+::::::::::::::
+
+## проверка работы протокола FTP с компьютера К
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00009.png)
+
+:::
+::::::::::::::
+
+## проверка работы протокола FTP с компьютера А
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00010.png)
+
+:::
+::::::::::::::
+
+
+## проверка работы протокола FTP с компьютера Д
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00011.png)
+
+:::
+::::::::::::::
+
+## Настройка доступа к файловому серверу
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00014.png)
+
+:::
+::::::::::::::
+
+
+## Настройка доступа к почтовому серверу
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00015.png)
+
+:::
+::::::::::::::
+
+## Настройка доступа к DNS-серверу
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00016.png)
+
+:::
+::::::::::::::
+
+## проверка работы DNS-сервера
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00017.png)
+
+:::
+::::::::::::::
+
+
+## Разрешение icmp-запросов
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00018.png)
+
+:::
+::::::::::::::
+
+
+
+## список прав доступа
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00019.png)
+
+:::
+::::::::::::::
+
+
+
+## Настройка доступа для сети Other
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00020.png)
+
+:::
+::::::::::::::
+
+
+## Настройка доступа администратора к сети сетевого оборудования
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00021.png)
+
+:::
+::::::::::::::
+
+
+
+# проверка работы списка прав доступа
+
+## проверка DNS-сервера
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00023.png)
+
+:::
+::::::::::::::
+
+## проверка подключения по протоколу ftp c ноутбука admin
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00024.png)
+
+:::
+::::::::::::::
+
+
+## проверка подключения по протоколу ftp c компьютера ДК
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00025.png)
+
+:::
+::::::::::::::
+
+## настройка FILE-сервера
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00026.png)
+
+:::
+::::::::::::::
+
+
+## настройка email в компьютера ДК
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00027.png)
+
+:::
+::::::::::::::
+
+## проверка работы email в компьютере ДК
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00028.png)
+
+:::
+::::::::::::::
+
+
+## сообщение правильноработности email
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00029.png)
+
+:::
+::::::::::::::
+
+## получение письмо 
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00030.png)
+
+:::
+::::::::::::::
+
+
+## проверка подключения к IP-адресу 10.128.0.4
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00032.png)
+
+:::
+::::::::::::::
+
+
+# настройка сети pavlovskaya
+
+## Настройка компьютера Д1 в сети pavlovskaya
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00033.png)
+
+:::
+::::::::::::::
+
+## Настройка компьютера Д1 в сети pavlovskaya
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00034.png)
+
+:::
+::::::::::::::
+
+## Настройка маршрутизатора gw-1
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00035.png)
+
+:::
+::::::::::::::
+
+
+## проверка работы списка прав доступа
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00036.png)
+
+:::
+::::::::::::::
+
+## проверка работы списка прав доступа
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00037.png)
+
+:::
+::::::::::::::
+
+## проверка работы списка прав доступа
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00038.png)
 
 :::
 ::::::::::::::
