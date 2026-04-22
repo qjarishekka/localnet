@@ -1,3 +1,11 @@
+# [10.0.0](https://github.com/qjarishekka/localnet/compare/v6.0.0...v10.0.0) (2026-04-22)
+
+
+
+# [](https://github.com/qjarishekka/localnet/compare/v6.0.0...v) (2026-04-22)
+
+
+
 # [](https://github.com/qjarishekka/localnet/compare/v6.0.0...v) (2026-04-18)
 
 
