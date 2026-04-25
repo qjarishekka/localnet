@@ -10,26 +10,118 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: презентация №
-subtitle: change
+title: презентация №11
+subtitle:  Настройка NAT. Планирование
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
-# Информация
 
-## change
+# обновление таблиц
+
+## таблица IP-адресов
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
-
-  * 
-
-:::
 ::: {.column width="70%"}
 
-![](./image/fig0000.png)
+![](./image/fig00001.png)
+
+:::
+::::::::::::::
+
+# изменение модулей повторителей
+
+## таблица IP-адресов
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+![](./image/fig00002.png)
+
+:::
+::::::::::::::
+
+# расположение устройств 
+
+## для сети provider
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+![](./image/fig00003.png)
+
+:::
+::::::::::::::
+
+## для сети Internet
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+![](./image/fig00004.png)
+
+:::
+::::::::::::::
+
+
+
+
+# содание зданий 
+
+## для сети provider
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+![](./image/fig00005.png)
+
+:::
+::::::::::::::
+
+## для сети Internet
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+![](./image/fig00006.png)
+
+:::
+::::::::::::::
+
+
+## измение местоположения
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+![](./image/fig00009.png)
+
+:::
+::::::::::::::
+
+## здание provider
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+![](./image/fig00010.png)
+
+:::
+::::::::::::::
+
+## здание Internet
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+![](./image/fig00011.png)
+
+:::
+::::::::::::::
+
+# изменение диаграммы сети
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+![](./image/fig00012.png)
 
 :::
 ::::::::::::::
