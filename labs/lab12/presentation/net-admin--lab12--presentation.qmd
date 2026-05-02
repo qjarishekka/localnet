@@ -18,57 +18,203 @@ date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
 
-# Информация
+# Первоначальная настройка
 
-## change
+## маршрутизатор provider-gw-1
 
 :::::::::::::: {.columns align=center}
 ::: {.column width="90%"}
 
-![](./image/fig0000.png)
+![](./image/fig00002.png)
 
 :::
 ::::::::::::::
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Информация
-
-## change
+## коммутатор provider-sw-1
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
+::: {.column width="90%"}
 
-  * 
-
-:::
-::: {.column width="70%"}
-
-![](./image/fig0000.png)
+![](./image/fig00003.png)
 
 :::
 ::::::::::::::
+
+
+
+# Настройка интерфейсов
+
+## маршрутизатор provider-gw-1
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00004.png)
+
+:::
+::::::::::::::
+
+## коммутатор provider-sw-1
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00005.png)
+
+:::
+::::::::::::::
+
+## маршрутизатор msk-donskaya-gw-1
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00006.png)
+
+:::
+::::::::::::::
+
+
+# Настройка пула адресов для NAT
+
+## Настройка пула адресов для NAT
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00007.png)
+
+:::
+::::::::::::::
+
+
+
+
+# Настройка списка доступа для NAT
+
+## Настройка списка доступа для NAT
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00008.png)
+
+:::
+::::::::::::::
+
+
+## Сеть дисплейных классов
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00009.png)
+
+:::
+::::::::::::::
+
+
+## Сеть кафедр
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00010.png)
+
+:::
+::::::::::::::
+
+## Сеть администрации
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00011.png)
+
+:::
+::::::::::::::
+
+
+## Доступ для компьютера администратора
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00012.png)
+
+:::
+::::::::::::::
+
+
+
+# Настройка NAT
+
+## Настроить Port Address Translation (PAT)
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00013.png)
+
+:::
+::::::::::::::
+
+
+## Настройка интерфейсов для NAT:
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00014.png)
+
+:::
+::::::::::::::
+
+
+
+
+
+
+# Настройка доступа из Интернета
+
+## WWW-сервер
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00015.png)
+
+:::
+::::::::::::::
+
+## Файловый сервер
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00016.png)
+
+:::
+::::::::::::::
+
+
+## Почтовый сервер
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00017.png)
+
+:::
+::::::::::::::
+
+
+## Доступ по RDP
+
+:::::::::::::: {.columns align=center}
+::: {.column width="90%"}
+
+![](./image/fig00018.png)
+
+:::
+::::::::::::::
+
+# СПАСИБО ЗА ВНИМАНИЕ
