@@ -10,26 +10,219 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: презентация №
-subtitle: change
+title: презентация №13
+subtitle:  Статическая маршрутизация в Интернете. Планирование
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
-# Информация
 
-## change
+# изменение в таблицах
+
+## диаграмма L1
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
 
-  * 
+::: {.column width="100%"}
 
-:::
-::: {.column width="70%"}
-
-![](./image/fig0000.png)
+![](./image/fig00001.png)
 
 :::
 ::::::::::::::
+
+
+## диаграмма L1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00002.png)
+
+:::
+::::::::::::::
+
+## диаграмма L1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00003.png)
+
+:::
+::::::::::::::
+
+## таблица VLAN
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00004.png)
+
+:::
+::::::::::::::
+
+
+
+## таблица IP-адресов
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00005.png)
+
+:::
+::::::::::::::
+
+# изменения в сети в Cisco-Packet-tracer
+
+
+## изменения в сети в Cisco-Packet-tracer
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00006.png)
+
+:::
+::::::::::::::
+
+# изменения в область Physical
+
+## создание нового города Сочи
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00007.png)
+
+:::
+::::::::::::::
+
+
+## создание нового здания Filial
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00008.png)
+
+:::
+::::::::::::::
+
+## создание нового здания квартал 42
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00009.png)
+
+:::
+::::::::::::::
+
+## перемещение устройств на соответственные места
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00010.png)
+
+:::
+::::::::::::::
+
+
+## перемещение устройств на соответственные места
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00011.png)
+
+:::
+::::::::::::::
+
+
+# Первоначальная настройка в устройствах
+
+## msk-q42-qscalizaya-gw-1 
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00012.png)
+
+:::
+::::::::::::::
+
+## msk-q42-qscalizaya-sw-1 
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00013.png)
+
+:::
+::::::::::::::
+
+## msk-hostel-qscalizaya-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00014.png)
+
+:::
+::::::::::::::
+
+
+## msk-hostel-qscalizaya-sw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00015.png)
+
+:::
+::::::::::::::
+
+
+##  sch−sochi-qscalizaya-sw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00016.png)
+
+:::
+::::::::::::::
+
+
+##  sch−sochi-qscalizaya-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="100%"}
+
+![](./image/fig00017.png)
+
+:::
+::::::::::::::
+
+# Спасибо за внимание
+
+
