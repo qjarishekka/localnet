@@ -1,5 +1,10 @@
 # Changelog
 
+# [12.0.0](https://github.com/qjarishekka/localnet/compare/v7.0.0...v12.0.0) (2026-05-02)
+
+* lab12: presenation #12 and imaes
+* lab12: report
+
 ## [11.0.0](https://github.com/qjarishekka/localnet/compare/v10.0.1...v11.0.0) (2026-04-25)
 
 ### Documentation
