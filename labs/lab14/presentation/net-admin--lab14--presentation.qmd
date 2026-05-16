@@ -17,6 +17,20 @@ date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
+# настроящяя сеть
+
+## настроящяя сеть
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/000.png)
+
+:::
+::::::::::::::
+
+
 # Настройка линка между площадками
 
 ## Настройка интерфейсов коммутатора provider-sw-1
@@ -227,20 +241,3 @@ date-format: "YYYY-MM-DD" # Example: 2025-09-06
 :::
 ::::::::::::::
 
-
-# Информация
-
-## change
-
-:::::::::::::: {.columns align=center}
-::: {.column width="30%"}
-
-  * 
-
-:::
-::: {.column width="70%"}
-
-![](./image/fig0000.png)
-
-:::
-::::::::::::::
