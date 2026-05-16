@@ -10,26 +10,234 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: презентация №
-subtitle: change
+title: презентация №14 
+subtitle: Статическая маршрутизация в Интернете. Настройка
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
-# Информация
+# настроящяя сеть
 
-## change
+## настроящяя сеть
 
 :::::::::::::: {.columns align=center}
-::: {.column width="30%"}
 
-  * 
+::: {.column width="90%"}
 
-:::
-::: {.column width="70%"}
-
-![](./image/fig0000.png)
+![](./image/000.png)
 
 :::
 ::::::::::::::
+
+
+# Настройка линка между площадками
+
+## Настройка интерфейсов коммутатора provider-sw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00001.png)
+
+:::
+::::::::::::::
+
+## Настройка интерфейсов маршрутизатора msk-donskaya-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00002.png)
+
+:::
+::::::::::::::
+
+## Настройка интерфейсов маршрутизатора msk-q42-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00003.png)
+
+:::
+::::::::::::::
+
+## Настройка интерфейсов коммутатора sch-sochi-sw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00004.png)
+
+:::
+::::::::::::::
+
+## Настройка интерфейсов маршрутизатора sch-sochi-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00005.png)
+
+:::
+::::::::::::::
+
+
+# Настройка площадки 42-го квартала
+
+## Настройка интерфейсов маршрутизатора msk-q42-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00006.png)
+
+:::
+::::::::::::::
+
+## Настройка интерфейсов коммутатора msk-q42-sw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00007.png)
+
+:::
+::::::::::::::
+
+
+## Настройка интерфейсов маршрутизирующего коммутатора msk-hostel-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00008.png)
+
+:::
+::::::::::::::
+
+
+## Настройка интерфейсов коммутатора msk-hostel-sw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00009.png)
+
+:::
+::::::::::::::
+
+
+
+# Настройка площадки в Сочи
+
+## Настройка интерфейсов маршрутизатора sch-sochi-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00010.png)
+
+:::
+::::::::::::::
+
+
+## Настройка интерфейсов коммутатора sch-sochi-sw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00011.png)
+
+:::
+::::::::::::::
+
+
+# Настройка маршрутизации между площадками
+
+## Настройка маршрутизатора msk-donskaya-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00012.png)
+
+:::
+::::::::::::::
+
+
+## Настройка маршрутизатора msk-q42-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00013.png)
+
+:::
+::::::::::::::
+
+
+## Настройка маршрутизатора sch-sochi-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00014.png)
+
+:::
+::::::::::::::
+
+
+
+# Настройка маршрутизации на 42 квартале
+
+## Настройка маршрутизатора msk-q42-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00015.png)
+
+:::
+::::::::::::::
+
+## Настройка интерфейсов маршрутизирующего коммутатора msk-hostel-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00016.png)
+
+:::
+::::::::::::::
+
+# Настройка NAT на маршрутизаторе msk-donskaya-gw-1
+
+## Настройка NAT на маршрутизаторе msk-donskaya-gw-1
+
+:::::::::::::: {.columns align=center}
+
+::: {.column width="90%"}
+
+![](./image/fig00017.png)
+
+:::
+::::::::::::::
+
