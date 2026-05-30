@@ -1,3 +1,7 @@
+# [16.0.0](https://github.com/qjarishekka/localnet/compare/v7.0.0...v16.0.0) (2026-05-30)
+
+
+
 # [14.0.0](https://github.com/qjarishekka/localnet/compare/v7.0.0...v14.0.0) (2026-05-16)
 
 
